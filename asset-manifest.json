@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/space-weather-blog/static/css/main.073c9b0a.css",
+    "main.js": "/space-weather-blog/static/js/main.bc1585ff.js",
+    "static/js/787.6b23279a.chunk.js": "/space-weather-blog/static/js/787.6b23279a.chunk.js",
+    "static/media/logo.svg": "/space-weather-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/space-weather-blog/index.html",
+    "main.073c9b0a.css.map": "/space-weather-blog/static/css/main.073c9b0a.css.map",
+    "main.bc1585ff.js.map": "/space-weather-blog/static/js/main.bc1585ff.js.map",
+    "787.6b23279a.chunk.js.map": "/space-weather-blog/static/js/787.6b23279a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bc1585ff.js"
+  ]
+}
